@@ -4,14 +4,16 @@
     box-sizing: 0;
 }
 body{
-  width: 100rem;
+  width: 100%;
   
 }
 header{
-width: 100rem;
-height: 5rem;
-background-color: black;
+width: 100%;
+height:5rem;
+background-color: burlywood;
 color: black;
+display: flex;
+
 }
 
 main{
@@ -21,4 +23,23 @@ main{
 
 nav{
 
+}
+h1{
+    margin-top: 20px;
+    font-size:45px  ;
+}
+.logo{
+    height: 100%;
+    width: 5%;
+    background-color: brown;
+}
+.media{
+    height: 100%;
+    width: 15%;
+    background-color: rgb(102, 27, 27);
+}
+
+.console{
+    height: 100%;
+    width:85%;
 }
