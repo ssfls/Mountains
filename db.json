@@ -1,1 +1,13 @@
 
+{
+    "users": [
+        {
+        "id": 3,
+        "name": "Jenia",
+        "surname": "Pavlenko",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP3TaIF2gfXfi1YLpfb353c57D3sgLoy28gg&s",
+        "balance": "500100"
+        
+        }
+    ]
+}
