@@ -1,1 +1,11 @@
-
+{
+    "users":[
+{
+    "id":1,
+    "name":"ABCD",
+    "surname":"DCBA",
+    "photo_url":"https://static.wikia.nocookie.net/megbookseries/images/b/bc/Jason_Statham_-.jpg/revision/latest?cb=20240804033847",
+    "balance":2000
+}
+    ]
+}
