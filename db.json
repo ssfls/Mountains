@@ -7,5 +7,36 @@
     "photo_url":"https://static.wikia.nocookie.net/megbookseries/images/b/bc/Jason_Statham_-.jpg/revision/latest?cb=20240804033847",
     "balance":2000
 }
+    ],
+
+
+
+
+    "items":[
+{
+    "id":1,
+    "name":"Laptop Acer",
+    "price":"30 000",
+    "photo_url":"https://static.wikia.nocookie.net/megbookseries/images/b/bc/Jason_Statham_-.jpg/revision/latest?cb=20240804033847",
+    "description":"This is laptop the best of the best "
+},
+
+{
+    "id":2,
+    "name":"Laptop Asus",
+    "price":"28 500",
+    "photo_url":"https://static.wikia.nocookie.net/megbookseries/images/b/bc/Jason_Statham_-.jpg/revision/latest?cb=20240804033847",
+    "description":"This is laptop not bad for bad for gaming "
+},
+
+{
+    "id":3,
+    "name":"Laptop Lenovo",
+    "price":"29 000",
+    "photo_url":"https://static.wikia.nocookie.net/megbookseries/images/b/bc/Jason_Statham_-.jpg/revision/latest?cb=20240804033847",
+    "description":"This is laptop nice for working "
+}
     ]
 }
+
+
