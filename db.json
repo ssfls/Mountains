@@ -17,7 +17,7 @@
     "id":1,
     "name":"Laptop Acer",
     "price":"30 000",
-    "photo_url":"https://static.wikia.nocookie.net/megbookseries/images/b/bc/Jason_Statham_-.jpg/revision/latest?cb=20240804033847",
+    "photo_url":"https://images.acer.com/is/image/acer/acer-laptop-aspire-7-NVIDIA-RTX-3050%20Ti-KSP-1-2?$responsive$",
     "description":"This is laptop the best of the best "
 },
 
@@ -25,7 +25,7 @@
     "id":2,
     "name":"Laptop Asus",
     "price":"28 500",
-    "photo_url":"https://static.wikia.nocookie.net/megbookseries/images/b/bc/Jason_Statham_-.jpg/revision/latest?cb=20240804033847",
+    "photo_url":"https://cdn.mos.cms.futurecdn.net/v2/t:0,l:0,cw:0,ch:0,q:80,w:650/op3ck3MSEdvxgJACKK7Jm.jpg.webp",
     "description":"This is laptop not bad for bad for gaming "
 },
 
@@ -33,7 +33,7 @@
     "id":3,
     "name":"Laptop Lenovo",
     "price":"29 000",
-    "photo_url":"https://static.wikia.nocookie.net/megbookseries/images/b/bc/Jason_Statham_-.jpg/revision/latest?cb=20240804033847",
+    "photo_url":"https://p2-ofp.static.pub//fes/cms/2024/08/28/fcd70qdguca5etsxhgazpeezkoam7p488088.png",
     "description":"This is laptop nice for working "
 }
     ]
