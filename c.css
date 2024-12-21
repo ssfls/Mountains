@@ -3,28 +3,3 @@
     padding:0;
 }
 
-header{
-    width: 100%;
-    height: 70px;
-    background-color: brown;
-    display: flex;
-    align-items: center;
-
-}
-
-.logo{
- height: 100%;
- width: 10%;
- color: bisque;
-}
-.impr{
-    width: 75%;
-    height: 100%;
-    background-color:blue ;
-}
-.media{
-height: 100%;
-width: 15%;
-background-color: blueviolet;
-
-}
